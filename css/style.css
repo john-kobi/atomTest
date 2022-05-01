@@ -5,3 +5,12 @@ barry{
 button{
   background-color: red;
 }
+
+other{
+  color: inherit;
+  background-color: red;
+  display: block;
+  font-size: 23px;
+  font: sans-serif;
+  
+}
